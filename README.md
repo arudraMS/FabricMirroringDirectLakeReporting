@@ -1,1 +1,1 @@
-# Microsoft-Fabric-Mirroring & Direct Lake Reporting
+# Microsoft Fabric Mirroring & Direct Lake Reporting
