@@ -1,1 +1,1 @@
-# Microsoft Fabric Mirroring & Direct Lake Reporting
+# Get started with Microsoft Fabric Mirroring & Direct Lake Reporting
